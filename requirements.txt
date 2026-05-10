@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+streamlit
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+pandas
+scikit-learn
