@@ -9,7 +9,7 @@ load_dotenv()
 
 llm = ChatGroq(
     groq_api_key=os.getenv("GROQ_API_KEY"),
-    model_name="llama3-8b-8192"
+    model="llama3-8b-8192"
 )
 
 prompt = PromptTemplate(
