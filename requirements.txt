@@ -9,3 +9,4 @@ pypdf
 python-dotenv
 pandas
 scikit-learn
+langchain-groq
